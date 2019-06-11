@@ -11,29 +11,28 @@ A Gradient Boosting Regressor model got the best fit. I then deploy a script tha
 
 
 
-#Visuals
-please see .png files for the meantime
+## VISUALS
+START WITH THE POWERPOINT!
 
-#Installation
-Please open the jupyter notebook using Jupyter Notebook. I will also include data in a folder and create a python script, but have not yet.
+## Installation
+Please open the jupyter notebook(ipynb) using Jupyter Notebook. I will also include data in a folder and create a python script at a later time, but have not yet.
 
-#Usage
+## Usage
 final_solution.head()
 
-#Support
+## Support
 PLEASE think about giving me feedback on this project. I want to learn and know I can do better! Suggestions and comments are more than welcome.
 
-#Roadmap
+## Roadmap
 I hope to improve my interactivity skills in matplotlib soon and add some more EDA features and even solution features of interactive graphs and visualizations.
 
-#Contributing
+## Contributing
 TBD
 
-#Authors and acknowledgment
+## Authors and acknowledgment
 I completed this assignment as part of a practice module for Data Science Dream Job. https://www.datasciencedreamjob.com
 
-#License
-For open source projects, say how it is licensed.
-
-#Project status
-First drafts!
+## License
+Open source, please credit any visuals
+## Project status
+First draft!
